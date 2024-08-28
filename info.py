@@ -83,6 +83,6 @@ DOWNLOAD_TEXT_URL = "https://t.me/N_CREATION_MOVIE_CHANNEL"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "join"
-CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYT"
+CAPTION_BUTTON_URL = "https://t.me/N_CREATION_MOVIE_CHANNEL"
 
    # Auto Delete For Bot Sending Files #
